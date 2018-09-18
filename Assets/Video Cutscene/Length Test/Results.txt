@@ -1,0 +1,16 @@
+Short -
+Magic Missle 22 Seconds
+640x480
+
+Passed
+Known issues, white screen appears shortly before loading 3D_Game.
+
+Medium- 
+MegaMan X4 Iris Death 01 minute:06 Seconds
+320x240
+Passed
+
+Long -
+Sonic CD Intro 01:32
+960x720
+Passed.
